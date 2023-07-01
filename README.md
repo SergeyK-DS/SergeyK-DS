@@ -58,6 +58,19 @@
   <img src="https://img.shields.io/badge/Google Sheets-000000?style=for-the-badge&logo=Google Sheets&logoColor=yellow" />
   <img src="https://img.shields.io/badge/Microsoft PowerPoint-000000?style=for-the-badge&logo=Microsoft PowerPoint&logoColor=yellow" /> 
 </div>
- 
 
+--- 
+
+### ⚙️ GitHub statistics:
+
+<table>
+  <tr>
+    <td>
+      <img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=SergeyK-DS&theme=dark&background=000000" alt="webDev's Github stats" />
+    </td>
+    <td>
+      <img height="195px" align="right" alt="webDev's Github Languages" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=SergeyK-DS&layout=compact&theme=vision-friendly-dark" />
+    </td>
+  </tr>
+</table>
    
